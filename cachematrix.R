@@ -1,5 +1,4 @@
-## The purpose of this assignment is to write a pair of functions 
-## that cache the inverse of a matrix.
+## The purpose of this assignment is to write a pair of functions that cache the inverse of a matrix.
 
 ## First function, makeCacheMatrix, is a function that creates a special "matrix" object that can cache its inverse.
 
